@@ -452,7 +452,7 @@ export const links = [
       {
         name: 'editor',
         icon: <FiEdit />,
-      }
+      },
     ],
   },
   {
@@ -478,7 +478,7 @@ export const links = [
       {
         name: 'financial',
         icon: <RiStockLine />,
-      }
+      },
     ],
   },
 ];
